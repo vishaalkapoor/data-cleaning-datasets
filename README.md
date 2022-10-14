@@ -1,5 +1,5 @@
 # Data sets suitable for Data Cleaning Exercises
-## Disclaimer: Licenses listed as per source with best effort. They may be incorrect. Use at your own risk.
+**Disclaimer: Licenses listed as per source with best effort. They may be incorrect. Use at your own risk.**
 
 
 ```
