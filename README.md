@@ -9,7 +9,13 @@ License: Apache 2.0
 Description: A synthetic data created with product codes containing illegal entries, as well as company/brands with minor typos.
 
 Directory: Pakistan_Intellectual_Capital
-Source: https://www.kaggle.com/datasets/zusmani/pakistanintellectualcapitalcs
 License: CC 0.0
+Source: https://www.kaggle.com/datasets/zusmani/pakistanintellectualcapitalcs
 Description: Data set used in a Kaggle class for inconsistent human entry.
+
+
+Directory: Inconsistent_Data_Entry
+License: Appears to be derived from Pakistan Intellectual Captial with CC 0.0
+Source: https://www.kaggle.com/code/alexisbcook/inconsistent-data-entry
+Description: A trimmed view of the Pakistan Intellectual Captial data set used in a Kaggle course on inconsistent human entry.
 ```
