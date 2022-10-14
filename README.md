@@ -13,7 +13,6 @@ License: CC 0.0
 Source: https://www.kaggle.com/datasets/zusmani/pakistanintellectualcapitalcs
 Description: Data set used in a Kaggle class for inconsistent human entry.
 
-
 Directory: Inconsistent_Data_Entry
 License: Appears to be derived from Pakistan Intellectual Captial with CC 0.0
 Source: https://www.kaggle.com/code/alexisbcook/inconsistent-data-entry
